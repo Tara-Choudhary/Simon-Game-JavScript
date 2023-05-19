@@ -1,1 +1,1 @@
-# simon-javScript
+# The Simon Game Using JavaScript
